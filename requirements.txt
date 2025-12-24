@@ -1,0 +1,16 @@
+# Core dependencies
+torch>=2.0.0
+transformers>=4.35.0
+accelerate>=0.24.0
+pillow>=10.0.0
+numpy>=1.24.0
+
+# Device control
+pyautogui>=0.9.54
+pynput>=1.7.6
+
+# Vision processing
+opencv-python>=4.8.0
+
+# Utilities
+tqdm>=4.65.0
